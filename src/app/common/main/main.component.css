@@ -1,0 +1,43 @@
+.container {
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+}
+.category-tab {
+  background-color: #fff;
+  border:none;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 20px;
+  margin-left: 10px;
+}
+.category-opinion {
+  border: none;
+  font-size: 17px;
+  padding: 5px;
+}
+.tab-1 {
+  display: flex;
+  margin-top: 4rem;
+  margin-bottom: 3rem;
+  margin-left: 4rem;
+}
+.tab-2 button {
+  border: none;
+  border-radius: 3px;
+}
+.tab-2 input {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  height: 45px;
+  width: 400px;
+  margin-top: 4rem;
+  margin-bottom: 3rem;
+}
+.card-container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-bottom: 40px;
+}
+

@@ -1,0 +1,33 @@
+.card1{
+  width: 400px;
+  justify-content: center;
+  border: 1px solid #8eb4cb;
+  padding: 0px;
+  margin-left: 50px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  border-radius: 10px;
+}
+.logo {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+}
+.desc {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.teacher {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+.col {
+  align-items: center;
+}
+.col h3 {
+  color: #134361;
+  font-weight: bold;
+}
